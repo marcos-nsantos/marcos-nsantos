@@ -4,7 +4,7 @@
 ![Welcome!](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-santos-d)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://marcossantos.dev)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/marcossantos)
 [![Website Badge](https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=web&logoColor=white)](https://marcossantos.dev)
 
 ```go
